@@ -60,7 +60,7 @@ h1::after {
 
 h2 {
     line-height: 50px;
-    color: #ergb(116, 3, 3);
+    color: rgb(116, 3, 3);
 }
 
 h3 {
